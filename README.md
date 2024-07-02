@@ -52,7 +52,7 @@ Additionally, there are [over three hundred ports of popular open-source softwar
 
 ## How do I read the documentation?
 
-Man pages are available online at [man.serenityos.org](https://man.serenityos.org). These pages are generated from the Markdown source files in [`Base/usr/share/man`](https://github.com/Clark-E/inclusive-serenity/tree/master/Base/usr/share/man) and updated automatically.
+Serenity publishes thier docs at [man.serenityos.org](https://man.serenityos.org), but they aren't gender inclusive. You can find inclusive documentation in this repository at [`Base/usr/share/man`](https://github.com/Clark-E/inclusive-serenity/tree/master/Base/usr/share/man).
 
 When running SerenityOS you can use `man` for the terminal interface, or `help` for the GUI.
 
