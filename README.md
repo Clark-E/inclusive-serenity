@@ -70,7 +70,7 @@ Ladybird runs on the same platforms that can be the host for a cross build of Se
 
 ## Get in touch and participate!
 
-Join our Discord server: [SerenityOS Discord](https://discord.gg/serenityos)
+Join Serenity's Discord server: [SerenityOS Discord](https://discord.gg/serenityos)
 
 Before opening an issue, please see the [issue policy](https://github.com/Clark-E/inclusive-serenity/blob/master/CONTRIBUTING.md#issue-policy).
 
