@@ -91,7 +91,7 @@ on the second stage of the CMake build, or in your environment.
 There are many quirky files that exercise a lot of interesting edge cases.
 We should probably keep track of them, somewhere.
 
-We have a [bmp suite and a jpg suite and several others](https://github.com/SerenityOS/serenity/tree/master/Base/res/html/misc).
+We have a [bmp suite and a jpg suite and several others](https://github.com/Clark-E/inclusive-serenity/tree/master/Base/res/html/misc).
 They are GPL'ed, and therefore not quite as compatible with the rest of Serenity.
 That's probably not a problem, but keeping "our" testcases separate from those GPL'ed suits sounds like a good idea.
 
@@ -100,7 +100,7 @@ But fuzzing tends to generate more and more and more files, and they will blow u
 Especially if we keep all interesting testcases, which is exactly what I intend to do.
 
 So we should keep the actual testcases out of the main serenity repo,
-that's why we created https://github.com/SerenityOS/serenity-fuzz-corpora
+that's why we created https://github.com/Clark-E/inclusive-serenity-fuzz-corpora
 
 Feel free to upload lots and lots files there, or use them for great good!
 

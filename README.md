@@ -8,7 +8,7 @@ Here's the original readme:
 
 **NOTE:** The Ladybird cross-platform web browser project is now separate from SerenityOS, and is now actively developed in the [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) repository.
 
-[![GitHub Actions Status](https://github.com/SerenityOS/serenity/workflows/Build,%20lint,%20and%20test/badge.svg)](https://github.com/SerenityOS/serenity/actions?query=workflow%3A"Build%2C%20lint%2C%20and%20test")
+[![GitHub Actions Status](https://github.com/Clark-E/inclusive-serenity/workflows/Build,%20lint,%20and%20test/badge.svg)](https://github.com/Clark-E/inclusive-serenity/actions?query=workflow%3A"Build%2C%20lint%2C%20and%20test")
 [![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/serenity.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:serenity)
 [![Discord](https://img.shields.io/discord/830522505605283862.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord&color=17cf48)](https://discord.gg/serenityos)
 
@@ -52,7 +52,7 @@ Additionally, there are [over three hundred ports of popular open-source softwar
 
 ## How do I read the documentation?
 
-Man pages are available online at [man.serenityos.org](https://man.serenityos.org). These pages are generated from the Markdown source files in [`Base/usr/share/man`](https://github.com/SerenityOS/serenity/tree/master/Base/usr/share/man) and updated automatically.
+Man pages are available online at [man.serenityos.org](https://man.serenityos.org). These pages are generated from the Markdown source files in [`Base/usr/share/man`](https://github.com/Clark-E/inclusive-serenity/tree/master/Base/usr/share/man) and updated automatically.
 
 When running SerenityOS you can use `man` for the terminal interface, or `help` for the GUI.
 
@@ -60,7 +60,7 @@ Code-related documentation can be found in the [documentation](Documentation/) f
 
 ## How do I build and run this?
 
-See the [SerenityOS build instructions](https://github.com/SerenityOS/serenity/blob/master/Documentation/BuildInstructions.md) or the [Ladybird build instructions](Documentation/BuildInstructionsLadybird.md).
+See the [SerenityOS build instructions](https://github.com/Clark-E/inclusive-serenity/blob/master/Documentation/BuildInstructions.md) or the [Ladybird build instructions](Documentation/BuildInstructionsLadybird.md).
 
 The build system supports a cross-compilation build of SerenityOS from Linux, macOS, Windows (with WSL2) and many other *Nixes.
 The default build system commands will launch a QEMU instance running the OS with hardware or software virtualization
@@ -72,7 +72,7 @@ Ladybird runs on the same platforms that can be the host for a cross build of Se
 
 Join our Discord server: [SerenityOS Discord](https://discord.gg/serenityos)
 
-Before opening an issue, please see the [issue policy](https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md#issue-policy).
+Before opening an issue, please see the [issue policy](https://github.com/Clark-E/inclusive-serenity/blob/master/CONTRIBUTING.md#issue-policy).
 
 A general guide for contributing can be found in [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
@@ -146,7 +146,7 @@ A general guide for contributing can be found in [`CONTRIBUTING.md`](CONTRIBUTIN
 * **Sönke Holz** - [spholz](https://github.com/spholz)
 * **implicitfield** - [implicitfield](https://github.com/implicitfield)
 
-And many more! [See here](https://github.com/SerenityOS/serenity/graphs/contributors) for a full contributor list. The people listed above have landed more than 100 commits in the project. :^)
+And many more! [See here](https://github.com/Clark-E/inclusive-serenity/graphs/contributors) for a full contributor list. The people listed above have landed more than 100 commits in the project. :^)
 
 ## License
 

@@ -9,7 +9,7 @@ Make sure you have all the dependencies installed:
 ```console
 sudo apt install build-essential cmake curl libmpfr-dev libmpc-dev libgmp-dev e2fsprogs ninja-build qemu-system-gui qemu-system-x86 qemu-utils ccache rsync unzip texinfo libssl-dev
 ```
-Optional: `fuse2fs` for [building images without root](https://github.com/SerenityOS/serenity/pull/11224).
+Optional: `fuse2fs` for [building images without root](https://github.com/Clark-E/inclusive-serenity/pull/11224).
 
 #### GCC 13 or Clang 17
 
@@ -68,7 +68,7 @@ for details.
 ```console
 sudo pacman -S --needed base-devel cmake curl mpfr libmpc gmp e2fsprogs ninja qemu-desktop qemu-system-aarch64 ccache rsync unzip
 ```
-Optional: `fuse2fs` for [building images without root](https://github.com/SerenityOS/serenity/pull/11224).
+Optional: `fuse2fs` for [building images without root](https://github.com/Clark-E/inclusive-serenity/pull/11224).
 
 ### SerenityOS
 

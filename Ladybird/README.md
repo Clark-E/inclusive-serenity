@@ -1,6 +1,6 @@
 # Ladybird
 
-Ladybird is a web browser built on the [LibWeb](https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibWeb) and [LibJS](https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS) engines from [SerenityOS](https://github.com/SerenityOS/serenity).
+Ladybird is a web browser built on the [LibWeb](https://github.com/Clark-E/inclusive-serenity/tree/master/Userland/Libraries/LibWeb) and [LibJS](https://github.com/Clark-E/inclusive-serenity/tree/master/Userland/Libraries/LibJS) engines from [SerenityOS](https://github.com/Clark-E/inclusive-serenity).
 The Browser UI has a cross-platform GUI in Qt6 and a macOS-specific GUI in AppKit.
 
 Ladybird aims to be a standards-compliant, independent web browser with no third-party dependencies.

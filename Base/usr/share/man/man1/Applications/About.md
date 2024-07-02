@@ -18,6 +18,6 @@ On the left is the official Ladyball logo. Designed by Katalin Kult, it combines
 
 Since there are no official releases of the project, the version number is denoted as `1.0-dev` and the revision number reflects the latest Git commit's hash.
 
-Copyright is attributed to the SerenityOS developers. Started by Andreas Kling in 2018, the project has since grown into a thriving global community of volunteers and full-time developers. Contributors with 100+ commits are acknowledged on [GitHub](https://github.com/SerenityOS/serenity#authors). The project's history is detailed on [Wikipedia](https://en.wikipedia.org/wiki/SerenityOS).
+Copyright is attributed to the SerenityOS developers. Started by Andreas Kling in 2018, the project has since grown into a thriving global community of volunteers and full-time developers. Contributors with 100+ commits are acknowledged on [GitHub](https://github.com/Clark-E/inclusive-serenity#authors). The project's history is detailed on [Wikipedia](https://en.wikipedia.org/wiki/SerenityOS).
 
 To learn more about SerenityOS visit the [homepage](https://serenityos.org).

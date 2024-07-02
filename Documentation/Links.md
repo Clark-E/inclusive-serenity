@@ -12,7 +12,7 @@ This is a roughly categorized list of pages relating to SerenityOS and its subpr
         -   [3rd](https://www.serenityos.org/happy/3rd/)
         -   [4th](https://www.serenityos.org/happy/4th/)
     -   [Emoji](https://emoji.serenityos.org/)
--   [Try it out Online!](https://copy.sh/v86/?profile=serenity) (This is an old i686 build which will never be updated as [i686 support is removed](https://github.com/SerenityOS/serenity/pull/15467).)
+-   [Try it out Online!](https://copy.sh/v86/?profile=serenity) (This is an old i686 build which will never be updated as [i686 support is removed](https://github.com/Clark-E/inclusive-serenity/pull/15467).)
 -   [SerenityOS on English Wikipedia](https://en.wikipedia.org/wiki/SerenityOS). This page also links to the SerenityOS articles in many other languages.
 
 ## Development

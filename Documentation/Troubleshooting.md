@@ -84,7 +84,7 @@ A quick workaround is opening the properties of the QEMU executable at `C:\Progr
 in the Compatibility tab changing the DPI settings to force the scaling to be performed by the System, by changing the
 setting at at the bottom of the window. The QEMU window will now render at normal size while retaining acceptable emulation speeds.
 
-This is being tracked as issue [#7657](https://github.com/SerenityOS/serenity/issues/7657).
+This is being tracked as issue [#7657](https://github.com/Clark-E/inclusive-serenity/issues/7657).
 
 ### Boot fails with "Error: Kernel Image too big for memory slot. Halting!"
 

@@ -14,7 +14,7 @@ LibC stub.
 ## How to generate LibC stub?
 
 First, you need to compile the LLVM toolchain and the SerenityOS's LibC. This will be a bit awkward
-(see discussion at https://github.com/SerenityOS/serenity/pull/23960) until (unless) we solve the
+(see discussion at https://github.com/Clark-E/inclusive-serenity/pull/23960) until (unless) we solve the
 dependency cycle between LibC and libunwind. Then, using the `llvm-ifs` tool,
 `Userland/Libraries/LibC/libc.so` can be converted into a stripped-down stub form. To do that, run
 the following command:

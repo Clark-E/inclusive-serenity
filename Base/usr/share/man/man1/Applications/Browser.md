@@ -29,5 +29,5 @@ Browser is an application used to view the World Wide Web. It is built on top of
 $ Browser
 $ Browser --help
 $ Browser https://serenityos.org/
-$ Browser https://serenityos.org/ /res/html/misc/welcome.html github.com/serenityos/serenity
+$ Browser https://serenityos.org/ /res/html/misc/welcome.html github.com/Clark-E/inclusive-serenity
 ```

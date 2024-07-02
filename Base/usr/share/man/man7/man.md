@@ -6,7 +6,7 @@ man - SerenityOS manual system
 
 The SerenityOS manual pages, or "man pages", document various parts of the operating system for users and developers. They are one of the two parts of the SerenityOS documentation.
 
-The other part of the SerenityOS documentation is the developer documentation, which can be found in the `Documentation` folder in the repository ([online link](https://github.com/SerenityOS/serenity/tree/master/Documentation)). The developer documentation is focused on setting up a SerenityOS installation and workflow, as well as contributing to its development.
+The other part of the SerenityOS documentation is the developer documentation, which can be found in the `Documentation` folder in the repository ([online link](https://github.com/Clark-E/inclusive-serenity/tree/master/Documentation)). The developer documentation is focused on setting up a SerenityOS installation and workflow, as well as contributing to its development.
 
 Note that documentation might cover standardized topics (such as standard POSIX C library functions) or SerenityOS-specific extensions (such as custom file formats). SerenityOS intends to be spec-complaint with industry standard specifications. Non-compliance with a particular specification should be documented in the relevant sections.
 

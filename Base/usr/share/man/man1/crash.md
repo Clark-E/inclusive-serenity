@@ -16,7 +16,7 @@ and can be used to simulate many different kinds of crashes.
 Some crash tests are only available on certain architectures.
 
 Some crash tests are excluded from the `-A` test, since depending on the hardware or implementation they may or may not crash.
-- Priviledged instructions in user mode are permitted by QEMU on some architectures such as x86. Therefore, this crash may not fail. See [discussion on pull request 10042](https://github.com/SerenityOS/serenity/pull/10042#issuecomment-920408568).
+- Priviledged instructions in user mode are permitted by QEMU on some architectures such as x86. Therefore, this crash may not fail. See [discussion on pull request 10042](https://github.com/Clark-E/inclusive-serenity/pull/10042#issuecomment-920408568).
 
 ## Options
 
