@@ -1,6 +1,6 @@
 # SerenityOS
 
-Graphical Unix-like operating system for x86-64 computers, except it uses inclusive language (by gender neutral pronouns.)
+Graphical Unix-like operating system for x86-64 computers, except it uses inclusive language (gender neutral pronouns.)
 
 Currently a work in progress, Feel free to make a PR!
 
