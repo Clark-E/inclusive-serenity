@@ -1,6 +1,10 @@
 # SerenityOS
 
-Graphical Unix-like operating system for x86-64 computers.
+Graphical Unix-like operating system for x86-64 computers, except it uses inclusive language (by gender neutral pronouns.)
+
+Currently a work in progress, Feel free to make a PR!
+
+Here's the original readme:
 
 **NOTE:** The Ladybird cross-platform web browser project is now separate from SerenityOS, and is now actively developed in the [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) repository.
 
