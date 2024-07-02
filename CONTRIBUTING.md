@@ -133,6 +133,7 @@ Sometimes good PRs get abandoned by the author for one reason or another. If the
 
 To make this easier, we do appreciate it if folks enable the "Allow edits from maintainers" flag on their pull requests.
 
-## On ideologically motivated changes
+## On "ideologically motivated changes"
 
-This is a purely technical project. As such, it is not an appropriate arena to advertise your personal politics or religious beliefs. Any changes that appear ideologically motivated will be rejected.
+That's quite a loaded phrase, isn't it?
+Inclusive Serenity does not reject changes on the grounds of them being "ideological." That's just plain silly.
